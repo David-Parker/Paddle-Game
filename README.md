@@ -1,5 +1,7 @@
 # CS 354R - Game Technology
 
+[![Paddle Game](http://img.youtube.com/vi/XuAxgmASHcs/0.jpg)](https://youtu.be/XuAxgmASHcs "Paddle Game")
+
 #### Team 12
 * Itoro Esiere
 * David Parker
